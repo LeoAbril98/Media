@@ -10,6 +10,9 @@
 
 <p align="center">🚀 Um simples programa em Java para calcular a média de quatro notas e determinar se o aluno foi aprovado, está em recuperação ou reprovado, com base nas novas regras de avaliação.</p>
 
+### 👨‍💻 Autor
+Feito com 💻 por Leonardo Abril.
+
 Tabela de conteúdos
 =================
 <p align="center">
@@ -46,6 +49,7 @@ Tabela de conteúdos
 - [x] Verificação de aprovação, recuperação ou reprovação com base na média.
 - [x] Exibição do resultado (Aprovado, Recuperação ou Reprovado).
 
+
 ### Exemplo de Uso
 
 ```bash
@@ -62,5 +66,4 @@ Tabela de conteúdos
 A média das notas é: 6.75
 Recuperação!
 
-### 👨‍💻 Autor
-Feito com 💻 por Leonardo Abril.
+
