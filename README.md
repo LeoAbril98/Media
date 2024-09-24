@@ -1,4 +1,3 @@
-### Calculadora de Média de Notas 🎓
 
 <div align="center">
   
